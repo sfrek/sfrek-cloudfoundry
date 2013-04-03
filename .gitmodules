@@ -1,3 +1,6 @@
 [submodule "vblob"]
 	path = vblob
 	url = git://github.com/cloudfoundry/vblob.git
+[submodule "uaa"]
+	path = uaa
+	url = git://github.com/cloudfoundry/uaa.git
