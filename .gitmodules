@@ -1,0 +1,3 @@
+[submodule "vblob"]
+	path = vblob
+	url = git://github.com/cloudfoundry/vblob.git
