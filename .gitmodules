@@ -4,3 +4,12 @@
 [submodule "uaa"]
 	path = uaa
 	url = git://github.com/cloudfoundry/uaa.git
+[submodule "vcap"]
+	path = vcap
+	url = git://github.com/cloudfoundry/vcap.git
+[submodule "appstest/subway"]
+	path = appstest/subway
+	url = git://github.com/cloudfoundry-samples/subway.git
+[submodule "appstest/sinatra-cloudfoundry-basic-website"]
+	path = appstest/sinatra-cloudfoundry-basic-website
+	url = git://github.com/sfrek/sinatra-cloudfoundry-basic-website.git
